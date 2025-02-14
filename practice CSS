@@ -1,0 +1,22 @@
+.header{
+    border: 1px solid red;
+    height:50px;
+    width:100%;
+    
+}
+.accessories{
+    border: 1px solid blue;
+    width:100%;
+    height:80px;
+}
+.image{
+width:100%;
+height:150px;
+}
+.electonics{
+    border: 1px solid green;
+    width:100%;
+    height:200px;
+    margin-top:10;
+    x;
+}
